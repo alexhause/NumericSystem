@@ -1,1 +1,6 @@
+<<<<<<< HEAD
+привет уебаны
+A TEPER?
+=======
 privet kakanya
+>>>>>>> c502cfd86e39c87abe04609ac8d2a1fa7569b4f1
